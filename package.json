@@ -1,0 +1,19 @@
+{
+  "name": "lyn13",
+  "version": "1.0.0",
+  "description": "Answer to exercise 13",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/choilmto/learnyounode-13.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/choilmto/learnyounode-13/issues"
+  },
+  "homepage": "https://github.com/choilmto/learnyounode-13#readme"
+}
