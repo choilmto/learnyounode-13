@@ -6,7 +6,7 @@
   "scripts": {
     "lyn": "learnyounode",
     "build": "tsc http-json-api-server.ts",
-    "test": "npm run lyn select HTTP JSON API SERVER && npm run lyn verify http-json-api-server.js",
+    "test": "learnyounode select HTTP JSON API SERVER && learnyounode verify http-json-api-server.js",
     "start": "npm run build && npm test"
   },
   "repository": {

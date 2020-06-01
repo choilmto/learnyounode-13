@@ -3,7 +3,9 @@
 # Instructions for use
 ## On Local machine
 `npm run build` only builds http-json-api-server.ts.
+
 `npm test` will show the output of the tests.
+
 `npm start` builds and tests http-json-api-server.ts.
 
 ## On GitHub
