@@ -1,5 +1,4 @@
 const http = require('http');
-const url = require('url');
 
 function callback (req: any, res: any): void {
     if (req.method === 'GET') {
@@ -28,6 +27,7 @@ function callback (req: any, res: any): void {
                 };
                 break;
             default:
+                res.write(404);
                 return res.end();
         }
         res.writeHead(200, { 'Content-Type': 'application/json' });

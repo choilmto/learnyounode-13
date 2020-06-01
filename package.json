@@ -2,7 +2,7 @@
   "name": "lyn13",
   "version": "1.0.0",
   "description": "Answer to exercise 13",
-  "main": "index.js",
+  "main": "http-json-api-server.js",
   "scripts": {
     "lyn": "learnyounode",
     "build": "tsc http-json-api-server.ts",
